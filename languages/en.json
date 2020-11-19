@@ -1,0 +1,8 @@
+{
+  "hourly_string": "Hourly",
+  "daily_string": "Daily",
+  "weather_lang_type_string": "en",
+  "no_internet_line_first_string": "App needs internet connectivity",
+  "no_internet_line_second_string": "at first launch",
+  "last_updated_string": "Updated"
+}

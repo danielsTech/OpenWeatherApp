@@ -1,0 +1,8 @@
+{
+  "hourly_string": "Часы",
+  "daily_string": "Дни",
+  "weather_lang_type_string": "ru",
+  "no_internet_line_first_string": "Нужно интернет соединение",
+  "no_internet_line_second_string": "при первом запуске",
+  "last_updated_string": "Обновлено"
+}
